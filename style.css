@@ -30,3 +30,6 @@ div {
 body {
 background: #D0E4F5 url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/9757d496-239b-46c5-baea-6873cbfe9b3d/de46b7x-307447c2-9000-47ce-a388-8b18800415f4.jpg") no-repeat fixed 50% 50%;
 }
+img {
+    border-radius: 50px;
+}
