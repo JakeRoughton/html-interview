@@ -1,0 +1,32 @@
+
+
+div {
+    border: 3px solid blue;
+}
+h1 {
+    color: red;
+}
+h5 {
+    color: yellow
+}
+h3 {
+    color: green;
+}
+div {
+    padding: 25px;
+}
+li {
+    margin: 10px;
+}
+li {
+    font-style: italic;
+}
+div {
+    box-shadow: 2px 4px 2px;
+}
+div {
+    background-color: gray;
+}
+body {
+background: #D0E4F5 url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/9757d496-239b-46c5-baea-6873cbfe9b3d/de46b7x-307447c2-9000-47ce-a388-8b18800415f4.jpg") no-repeat fixed 50% 50%;
+}
